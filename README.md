@@ -1,7 +1,7 @@
 # About
 Using stream api to filter/sort data
 
-![filtering](/images/filtering.png)
+![filtering](/images/filtering.PNG)
 
 ### Short description
 
